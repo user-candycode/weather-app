@@ -5,3 +5,5 @@ This is a weather and pollution tracker app
 2. data is read to a variable as dictionary
 3. data key values are read into other attributes and used for operations such cleaning of data and printing
 4. will try to add gui using Tkinter 
+5. currently hardcoded to location delhi for testing in Token as a url links
+ 
